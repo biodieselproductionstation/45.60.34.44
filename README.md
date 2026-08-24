@@ -1,5 +1,12 @@
-# Introduction
 
+What happened?
+This request was blocked by our security service
+Your IP: 109.70.100.10
+Proxy IP: 45.60.34.44 (ID 10786-100)
+Incident ID: 786000430222304871-250633366365407987
+# Introduction
+‪2A03:E600:100:0:0:0:0:0/48‬
+2a03:e600:100::10
 The [WSL2-Linux-Kernel][wsl2-kernel] repo contains the kernel source code and
 configuration files for the [WSL2][about-wsl2] kernel.
 
